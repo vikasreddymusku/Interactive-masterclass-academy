@@ -1,0 +1,178 @@
+{
+  "id": "foundational-python-variables",
+  "page": "foundational/python/variables.html",
+  "createdAt": "2026-10-30T06:57:48.464Z",
+  "silent": false,
+  "video": "assets/dashboard-tutorials/foundational-python-variables.mp4",
+  "duration": 98.766666,
+  "resolution": "1920x1080",
+  "status": "complete",
+  "sceneCount": 11,
+  "scenes": [
+    {
+      "scene": 1,
+      "title": "Welcome to the dashboard",
+      "at": 1.081,
+      "seconds": 10.463061,
+      "target": "#dashboard",
+      "action": "show",
+      "layout": {
+        "stage": "#dashboard",
+        "target": "#dashboard",
+        "scale": 1,
+        "visible": true,
+        "rawHeight": 470
+      }
+    },
+    {
+      "scene": 2,
+      "title": "Your progress",
+      "at": 12.461,
+      "seconds": 7.955305999999999,
+      "target": "#py-stat-progress",
+      "action": "show",
+      "layout": {
+        "stage": "#dashboard",
+        "target": "#py-stat-progress",
+        "scale": 1,
+        "visible": true,
+        "rawHeight": 470
+      }
+    },
+    {
+      "scene": 3,
+      "title": "Start learning",
+      "at": 21.327,
+      "seconds": 8.094626,
+      "target": "#py-continue",
+      "action": "click",
+      "layout": {
+        "stage": "#dashboard",
+        "target": "#py-continue",
+        "scale": 1,
+        "visible": true,
+        "rawHeight": 470
+      }
+    },
+    {
+      "scene": 4,
+      "title": "The code editor",
+      "at": 30.418,
+      "seconds": 6.701429,
+      "target": "#py-editor",
+      "action": "show",
+      "layout": {
+        "stage": "#player",
+        "target": "#py-editor",
+        "scale": 1,
+        "visible": true,
+        "rawHeight": 815
+      }
+    },
+    {
+      "scene": 5,
+      "title": "Run the code",
+      "at": 39.072,
+      "seconds": 6.004829999999999,
+      "target": "#py-run",
+      "action": "click",
+      "layout": {
+        "stage": "#player",
+        "target": "#py-run",
+        "scale": 1,
+        "visible": true,
+        "rawHeight": 815
+      }
+    },
+    {
+      "scene": 6,
+      "title": "Read the output",
+      "at": 47.182,
+      "seconds": 4.843832,
+      "target": "#py-term",
+      "action": "show",
+      "layout": {
+        "stage": "#player",
+        "target": "#py-term",
+        "scale": 1,
+        "visible": true,
+        "rawHeight": 815
+      }
+    },
+    {
+      "scene": 7,
+      "title": "Edit an example",
+      "at": 53.951,
+      "seconds": 7.119388,
+      "target": "#py-editor",
+      "action": "edit",
+      "layout": {
+        "stage": "#player",
+        "target": "#py-editor",
+        "scale": 1,
+        "visible": true,
+        "rawHeight": 815
+      }
+    },
+    {
+      "scene": 8,
+      "title": "Run the edited example",
+      "at": 62.703,
+      "seconds": 7.583787,
+      "target": "#py-run",
+      "action": "click",
+      "layout": {
+        "stage": "#player",
+        "target": "#py-run",
+        "scale": 1,
+        "visible": true,
+        "rawHeight": 815
+      }
+    },
+    {
+      "scene": 9,
+      "title": "Reset the example",
+      "at": 72.23,
+      "seconds": 7.351586999999999,
+      "target": "#py-reset-code",
+      "action": "click",
+      "layout": {
+        "stage": "#player",
+        "target": "#py-reset-code",
+        "scale": 1,
+        "visible": true,
+        "rawHeight": 815
+      }
+    },
+    {
+      "scene": 10,
+      "title": "Next lesson",
+      "at": 80.6,
+      "seconds": 7.537347,
+      "target": "#py-next",
+      "action": "click",
+      "layout": {
+        "stage": "#player",
+        "target": "#py-next",
+        "scale": 1,
+        "visible": true,
+        "rawHeight": 815
+      }
+    },
+    {
+      "scene": 11,
+      "title": "Explore the slide list",
+      "at": 90.127,
+      "seconds": 7.676666999999999,
+      "target": "#py-outline",
+      "action": "show",
+      "layout": {
+        "stage": "#player",
+        "target": "#py-outline",
+        "scale": 1,
+        "visible": true,
+        "rawHeight": 821
+      }
+    }
+  ]
+}

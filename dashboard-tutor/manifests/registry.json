@@ -1,0 +1,2556 @@
+{
+  "generatedAt": "2026-10-30T06:28:35.356Z",
+  "totalHtml": 129,
+  "detected": 72,
+  "entries": [
+    {
+      "id": "agentic-development-agent-swarms-index",
+      "path": "agentic-development/agent-swarms/index.html",
+      "title": "One business goal in.A governed swarm of AI agents out.",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 15,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 2,
+        "inputs": 3,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#sw-objective",
+        "#sw-prompt",
+        "#sw-kick",
+        "#sw-speed",
+        "#sw-reset"
+      ]
+    },
+    {
+      "id": "agentic-development-agentic-loops-index",
+      "path": "agentic-development/agentic-loops/index.html",
+      "title": "The agentic loop.Observe. Think. Act. Check. Repeat.",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 2,
+        "inputs": 3,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#sw-objective",
+        "#sw-prompt",
+        "#sw-kick",
+        "#sw-speed",
+        "#sw-reset"
+      ]
+    },
+    {
+      "id": "agentic-development-agents-index",
+      "path": "agentic-development/agents/index.html",
+      "title": "Meet the agent.A model that can look, decide and act.",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 15,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 2,
+        "inputs": 3,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#sw-objective",
+        "#sw-prompt",
+        "#sw-kick",
+        "#sw-speed",
+        "#sw-reset"
+      ]
+    },
+    {
+      "id": "agentic-development-index",
+      "path": "agentic-development/index.html",
+      "title": "From one agentto a governed swarm.",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "ai-aws-bedrock-demo",
+      "path": "ai/aws-bedrock/demo.html",
+      "title": "AWS Bedrock Model Routing & Guardrails Simulator",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "ai-aws-bedrock-index",
+      "path": "ai/aws-bedrock/index.html",
+      "title": "AWS BEDROCK ROADMAP (2026)",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "ai-aws-strands-index",
+      "path": "ai/aws-strands/index.html",
+      "title": "AWS STRANDS AGENTS ROADMAP (2026)",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "ai-azure-foundry-demo",
+      "path": "ai/azure-foundry/demo.html",
+      "title": "Azure Prompt Flow Execution & Groundedness Evaluator",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "ai-azure-foundry-index",
+      "path": "ai/azure-foundry/index.html",
+      "title": "AZURE FOUNDRY ROADMAP (2026)",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "ai-claude-sdk-demo",
+      "path": "ai/claude-sdk/demo.html",
+      "title": "Claude 3.5 SDK Tool Calling & Prompt Caching Simulator",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "ai-claude-sdk-index",
+      "path": "ai/claude-sdk/index.html",
+      "title": "CLAUDE SDK ROADMAP (2026)",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "ai-crewai-demo",
+      "path": "ai/crewai/demo.html",
+      "title": "CrewAI Crew Execution Simulator",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "ai-crewai-index",
+      "path": "ai/crewai/index.html",
+      "title": "CREWAI ROADMAP (2026)",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "ai-demo",
+      "path": "ai/demo.html",
+      "title": "Multi-Agent Consensus & Execution Playground",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "ai-google-gemini-sdk-demo",
+      "path": "ai/google-gemini-sdk/demo.html",
+      "title": "Gemini 2M Context Cache & Multimodal Processing Lab",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "ai-google-gemini-sdk-index",
+      "path": "ai/google-gemini-sdk/index.html",
+      "title": "GOOGLE GEMINI SDK ROADMAP (2026)",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "ai-index",
+      "path": "ai/index.html",
+      "title": "Artificial Intelligence, Foundation Models & Agentic Systems",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "ai-langgraph-demo",
+      "path": "ai/langgraph/demo.html",
+      "title": "LangGraph Cyclic State Machine Simulator",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "ai-langgraph-index",
+      "path": "ai/langgraph/index.html",
+      "title": "LANGGRAPH ROADMAP (2026)",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "automation-ml-ai-agentic-agentic-loops",
+      "path": "automation-ml-ai-agentic/agentic-loops.html",
+      "title": "Agentic Loops",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "automation-ml-ai-agentic-agents",
+      "path": "automation-ml-ai-agentic/agents.html",
+      "title": "AI Agents",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "automation-ml-ai-agentic-ai",
+      "path": "automation-ml-ai-agentic/ai.html",
+      "title": "01. Artificial Intelligence (AI) Explained for CS Students",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 57,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 26,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#btn-toggle-kid-mode",
+        "#btn-remove-layer",
+        "#btn-add-layer",
+        "#btn-forward-pulse",
+        "#btn-backprop-pulse",
+        "#pill-animal",
+        "#pill-sales",
+        "#pill-code",
+        "#pill-spam",
+        "#pill-car",
+        "#pill-medical",
+        "#tab-social",
+        "#tab-finance",
+        "#tab-realestate",
+        "#tab-retail",
+        "#tab-logistics",
+        "#btn-social-viral",
+        "#btn-social-moderate",
+        "#btn-finance-fraud",
+        "#btn-finance-market",
+        "#btn-re-reno",
+        "#btn-re-rate",
+        "#btn-retail-cart",
+        "#btn-retail-discount",
+        "#btn-logistics-jam",
+        "#btn-logistics-reroute"
+      ]
+    },
+    {
+      "id": "automation-ml-ai-agentic-automation",
+      "path": "automation-ml-ai-agentic/automation.html",
+      "title": "Automation: do it the same way, every time",
+      "adapter": "diagram",
+      "anchor": "#workflow",
+      "score": 23,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 2,
+        "inputs": 7,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#amt",
+        "#mismatch",
+        "#wf-run",
+        "#wf-reset",
+        "#r-tasks",
+        "#r-mins",
+        "#r-rate",
+        "#r-cov",
+        "#r-build"
+      ]
+    },
+    {
+      "id": "automation-ml-ai-agentic-demo",
+      "path": "automation-ml-ai-agentic/demo.html",
+      "title": "Autonomous AI Automation Agentic Swarm Engineering",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 125,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 25,
+        "inputs": 0,
+        "handlers": 25
+      },
+      "candidateControls": [
+        "#tourPlayBtn",
+        "#epochTab1",
+        "#epochTab2",
+        "#epochTab3",
+        "#epochTab4",
+        "#slidePlayBtn"
+      ]
+    },
+    {
+      "id": "automation-ml-ai-agentic-genai",
+      "path": "automation-ml-ai-agentic/genai.html",
+      "title": "03. Generative AI (GenAI) Demystified for Beginners",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 165,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 31,
+        "inputs": 2,
+        "handlers": 33
+      },
+      "candidateControls": [
+        "#token-input",
+        "#btn-stream-play",
+        "#temp-range",
+        "#btn-rag-on",
+        "#btn-rag-off",
+        "#btn-plug-sql",
+        "#btn-plug-fs",
+        "#btn-plug-gh",
+        "#btn-plug-web"
+      ]
+    },
+    {
+      "id": "automation-ml-ai-agentic-index",
+      "path": "automation-ml-ai-agentic/index.html",
+      "title": "Welcome to Tinitiate AI IT Training for AI Developers",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 329,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 70,
+        "inputs": 0,
+        "handlers": 63
+      },
+      "candidateControls": [
+        "#btn-spectrum-play",
+        "#btn-spectrum-speed",
+        "#btn-spectrum-enlarge",
+        "#btn-sphere-motion",
+        "#term-llm",
+        "#term-transformer",
+        "#term-tokens",
+        "#term-context-window",
+        "#term-temperature",
+        "#term-prompts",
+        "#term-fewshot",
+        "#term-multimodal",
+        "#term-inference",
+        "#term-latency",
+        "#term-rag",
+        "#term-embeddings",
+        "#term-vectordb",
+        "#term-semantic-search",
+        "#term-chunking",
+        "#term-reranker",
+        "#term-cosine-similarity",
+        "#term-agentic",
+        "#term-mcp",
+        "#term-react-loops",
+        "#term-harness",
+        "#term-tool-calling",
+        "#term-swarm",
+        "#term-finetuning",
+        "#term-lora",
+        "#term-evaluator",
+        "#term-guardrails",
+        "#term-hallucination",
+        "#term-cot",
+        "#term-quantization",
+        "#inspJumpBtn",
+        "#tour-play-btn",
+        "#tour-speed-btn"
+      ]
+    },
+    {
+      "id": "automation-ml-ai-agentic-ml",
+      "path": "automation-ml-ai-agentic/ml.html",
+      "title": "02. Machine Learning (ML) AI Foundations",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "aws-dataengineering-demo",
+      "path": "aws-dataengineering/demo.html",
+      "title": "AWS Data Engineering Simulator",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 1,
+        "inputs": 0,
+        "handlers": 1
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "aws-dataengineering-index",
+      "path": "aws-dataengineering/index.html",
+      "title": "AWS Data Engineering Architecture MasterClass",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "azure-dataengineering-demo",
+      "path": "azure-dataengineering/demo.html",
+      "title": "Azure Data Engineering Simulator",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 1,
+        "inputs": 0,
+        "handlers": 1
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "azure-dataengineering-index",
+      "path": "azure-dataengineering/index.html",
+      "title": "Azure Data Engineering & Microsoft Fabric MasterClass",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "communication-skill-prep-index",
+      "path": "communication-skill-prep/index.html",
+      "title": "Read your introduction aloud. Get an instant score.",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 4,
+        "inputs": 1,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#scLang",
+        "#scMain",
+        "#scEnd",
+        "#scReset",
+        "#scListen"
+      ]
+    },
+    {
+      "id": "data-engineering-batch-loading",
+      "path": "data-engineering/batch-loading.html",
+      "title": "04. Batch Loading, ETL vs. ELT Orchestration",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 15,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 3,
+        "inputs": 0,
+        "handlers": 3
+      },
+      "candidateControls": [
+        "#btn-run-dag"
+      ]
+    },
+    {
+      "id": "data-engineering-data-fabric",
+      "path": "data-engineering/data-fabric.html",
+      "title": "09. Data Fabric Active Metadata Knowledge Graphs",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 20,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-node-crm",
+        "#btn-node-pg",
+        "#btn-node-s3"
+      ]
+    },
+    {
+      "id": "data-engineering-data-lake",
+      "path": "data-engineering/data-lake.html",
+      "title": "03. Data Lake Explainer Medallion Architecture",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 15,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 3,
+        "inputs": 0,
+        "handlers": 3
+      },
+      "candidateControls": [
+        "#btn-med-bronze",
+        "#btn-med-silver",
+        "#btn-med-gold"
+      ]
+    },
+    {
+      "id": "data-engineering-data-lakehouse",
+      "path": "data-engineering/data-lakehouse.html",
+      "title": "07. Data Lakehouse Architecture Open Table Formats",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 25,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 5,
+        "inputs": 0,
+        "handlers": 5
+      },
+      "candidateControls": [
+        "#btn-snap-v0",
+        "#btn-snap-v1",
+        "#btn-snap-v2",
+        "#btn-snap-v3"
+      ]
+    },
+    {
+      "id": "data-engineering-data-mesh",
+      "path": "data-engineering/data-mesh.html",
+      "title": "08. Data Mesh Architecture Domain Ownership",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 20,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-dom-checkout",
+        "#btn-dom-shipping",
+        "#btn-dom-growth"
+      ]
+    },
+    {
+      "id": "data-engineering-data-warehouse",
+      "path": "data-engineering/data-warehouse.html",
+      "title": "06. Data Warehouse Dimensional Modeling",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 20,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-star-fact",
+        "#btn-star-cust",
+        "#btn-star-prod",
+        "#btn-star-date"
+      ]
+    },
+    {
+      "id": "data-engineering-db-explainer",
+      "path": "data-engineering/db-explainer.html",
+      "title": "01. Database Explainer: RDBMS Relational Theory",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 25,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 5,
+        "inputs": 0,
+        "handlers": 5
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "data-engineering-demo",
+      "path": "data-engineering/demo.html",
+      "title": "Data Engineering Simulator",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 2,
+        "inputs": 0,
+        "handlers": 2
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "data-engineering-duckdb-demo",
+      "path": "data-engineering/duckdb/demo.html",
+      "title": "DuckDB In-Process Analytical Query & Parquet Scan Simulator",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "data-engineering-duckdb-index",
+      "path": "data-engineering/duckdb/index.html",
+      "title": "DuckDB: In-Process Columnar Analytical OLAP",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "data-engineering-file-formats",
+      "path": "data-engineering/file-formats.html",
+      "title": "02. File Formats Compression Codecs",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 35,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 7,
+        "inputs": 0,
+        "handlers": 7
+      },
+      "candidateControls": [
+        "#btn-run-race",
+        "#btn-fmt-csv",
+        "#btn-fmt-json",
+        "#btn-fmt-ndjson",
+        "#btn-fmt-xml",
+        "#btn-fmt-parquet"
+      ]
+    },
+    {
+      "id": "data-engineering-index",
+      "path": "data-engineering/index.html",
+      "title": "Data Engineering MasterClass",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 172,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 32,
+        "inputs": 0,
+        "handlers": 36
+      },
+      "candidateControls": [
+        "#btn-ana-1",
+        "#btn-ana-2",
+        "#btn-ana-3",
+        "#btn-stg-1",
+        "#btn-stg-2",
+        "#btn-stg-3",
+        "#btn-stg-4",
+        "#btn-run-etl",
+        "#btn-med-domain-1",
+        "#btn-med-domain-2",
+        "#btn-med-domain-3",
+        "#btn-mode-batch",
+        "#btn-mode-stream",
+        "#btn-motion-play",
+        "#btn-motion-speed",
+        "#btn-motion-enlarge",
+        "#btn-tech-sql",
+        "#btn-tech-pandas",
+        "#btn-tech-pyspark",
+        "#btn-tech-iceberg",
+        "#btn-tech-deltalake",
+        "#btn-tech-postgresql"
+      ]
+    },
+    {
+      "id": "data-engineering-onprem-pandas-polars-sql-demo",
+      "path": "data-engineering/onprem-pandas-polars-sql/demo.html",
+      "title": "Vectorized Engine Benchmark: Pandas vs Polars LazyFrame",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "data-engineering-onprem-pandas-polars-sql-index",
+      "path": "data-engineering/onprem-pandas-polars-sql/index.html",
+      "title": "On-Premises Data Engineering: Pandas 2.0, Polars & SQL",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "data-engineering-real-time",
+      "path": "data-engineering/real-time.html",
+      "title": "05. Real-Time Streaming Cloud Ecosystem Tools",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 40,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 8,
+        "inputs": 0,
+        "handlers": 8
+      },
+      "candidateControls": [
+        "#btn-toggle-stream"
+      ]
+    },
+    {
+      "id": "data-governence-atlas-demo",
+      "path": "data-governence/atlas/demo.html",
+      "title": "Apache Atlas Lineage Graph & Tag Propagation Lab",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "data-governence-atlas-index",
+      "path": "data-governence/atlas/index.html",
+      "title": "Apache Atlas: Open-Source Enterprise Metadata & Lineage",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "data-governence-demo",
+      "path": "data-governence/demo.html",
+      "title": "Data Governance Simulator",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 1,
+        "inputs": 0,
+        "handlers": 1
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "data-governence-index",
+      "path": "data-governence/index.html",
+      "title": "Enterprise Data Governance & Purview MasterClass",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "data-governence-purview-sandbox-demo",
+      "path": "data-governence/purview-sandbox/demo.html",
+      "title": "Microsoft Purview Governance Lab",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 2,
+        "inputs": 0,
+        "handlers": 2
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "data-governence-purview-sandbox-index",
+      "path": "data-governence/purview-sandbox/index.html",
+      "title": "Purview Ingestion Scan Sandbox",
+      "adapter": "react",
+      "anchor": "#root",
+      "score": 39,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 1,
+        "handlers": 5
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "data-governence-purview-sandbox-lineage",
+      "path": "data-governence/purview-sandbox/lineage.html",
+      "title": "Column-Level Data Lineage Sandbox",
+      "adapter": "react",
+      "anchor": "#root",
+      "score": 32,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 3,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "data-governence-purview-sandbox-policy-steward-matrix",
+      "path": "data-governence/purview-sandbox/policy-steward-matrix.html",
+      "title": "Policy-as-Code Steward Matrix Sandbox",
+      "adapter": "react",
+      "anchor": "#root",
+      "score": 44,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 2,
+        "handlers": 6
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "data-governence-unity-demo",
+      "path": "data-governence/unity/demo.html",
+      "title": "Databricks Unity Catalog 3-Level Namespace & Masking Lab",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "data-governence-unity-index",
+      "path": "data-governence/unity/index.html",
+      "title": "Databricks Unity Catalog: Unified Governance & ABAC",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "databricks-dataengineering-demo",
+      "path": "databricks-dataengineering/demo.html",
+      "title": "Databricks Lakehouse Simulator",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 2,
+        "inputs": 0,
+        "handlers": 2
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "databricks-dataengineering-index",
+      "path": "databricks-dataengineering/index.html",
+      "title": "Databricks Lakehouse & Apache Spark MasterClass",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "foundational-apis-demo",
+      "path": "foundational/apis/demo.html",
+      "title": "Protocol Benchmark Simulator: REST vs GraphQL vs gRPC",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "foundational-apis-index",
+      "path": "foundational/apis/index.html",
+      "title": "Enterprise API Architecture & Protocol Engineering",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "foundational-authentication-demo",
+      "path": "foundational/authentication/demo.html",
+      "title": "OAuth 2.0 & OIDC PKCE Token Handshake Simulator",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "foundational-authentication-index",
+      "path": "foundational/authentication/index.html",
+      "title": "Modern Enterprise Authentication & Authorization",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "foundational-data-structures-demo",
+      "path": "foundational/data-structures/demo.html",
+      "title": "Data Structure Tree & HashMap Memory Visualizer",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "foundational-data-structures-index",
+      "path": "foundational/data-structures/index.html",
+      "title": "Data Structures & Algorithmic Foundations",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "foundational-demo",
+      "path": "foundational/demo.html",
+      "title": "Enterprise Foundational Architecture Visualizer",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "foundational-design-patterns-demo",
+      "path": "foundational/design-patterns/demo.html",
+      "title": "Interactive Design Patterns Architecture Lab",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "foundational-design-patterns-index",
+      "path": "foundational/design-patterns/index.html",
+      "title": "GoF Software Design Patterns in Modern Architecture",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "foundational-index",
+      "path": "foundational/index.html",
+      "title": "Foundational Computer Science & Software Engineering",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "foundational-microservices-demo",
+      "path": "foundational/microservices/demo.html",
+      "title": "Distributed Saga Orchestrator & Circuit Breaker Simulator",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "foundational-microservices-index",
+      "path": "foundational/microservices/index.html",
+      "title": "Distributed Microservices & Event-Driven Systems",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "foundational-oop-demo",
+      "path": "foundational/oop/demo.html",
+      "title": "SOLID Principles Code Refactoring & Coupling Visualizer",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "foundational-oop-index",
+      "path": "foundational/oop/index.html",
+      "title": "Object-Oriented Programming & SOLID Principles",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "foundational-python-datatypes",
+      "path": "foundational/python/datatypes.html",
+      "title": "Python Datatypes: Kinds of Values",
+      "adapter": "pycourse",
+      "anchor": "#dashboard",
+      "score": 63,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 8,
+        "inputs": 1,
+        "handlers": 7
+      },
+      "candidateControls": [
+        "#py-continue",
+        "#py-reset",
+        "#py-first",
+        "#py-prev",
+        "#py-play",
+        "#py-next",
+        "#py-last"
+      ]
+    },
+    {
+      "id": "foundational-python-index",
+      "path": "foundational/python/index.html",
+      "title": "Python Foundations",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 1,
+        "inputs": 0,
+        "handlers": 1
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "foundational-python-lists",
+      "path": "foundational/python/lists.html",
+      "title": "Python Lists: Many Values in One Place",
+      "adapter": "pycourse",
+      "anchor": "#dashboard",
+      "score": 63,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 8,
+        "inputs": 1,
+        "handlers": 7
+      },
+      "candidateControls": [
+        "#py-continue",
+        "#py-reset",
+        "#py-first",
+        "#py-prev",
+        "#py-play",
+        "#py-next",
+        "#py-last"
+      ]
+    },
+    {
+      "id": "foundational-python-operators",
+      "path": "foundational/python/operators.html",
+      "title": "Python Operators: Maths, Comparisons and Logic",
+      "adapter": "pycourse",
+      "anchor": "#dashboard",
+      "score": 63,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 8,
+        "inputs": 1,
+        "handlers": 7
+      },
+      "candidateControls": [
+        "#py-continue",
+        "#py-reset",
+        "#py-first",
+        "#py-prev",
+        "#py-play",
+        "#py-next",
+        "#py-last"
+      ]
+    },
+    {
+      "id": "foundational-python-print",
+      "path": "foundational/python/print.html",
+      "title": "Python Print: Show Things on Screen",
+      "adapter": "pycourse",
+      "anchor": "#dashboard",
+      "score": 63,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 8,
+        "inputs": 1,
+        "handlers": 7
+      },
+      "candidateControls": [
+        "#py-continue",
+        "#py-reset",
+        "#py-first",
+        "#py-prev",
+        "#py-play",
+        "#py-next",
+        "#py-last"
+      ]
+    },
+    {
+      "id": "foundational-python-strings",
+      "path": "foundational/python/strings.html",
+      "title": "Python Strings: Working with Text",
+      "adapter": "pycourse",
+      "anchor": "#dashboard",
+      "score": 63,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 8,
+        "inputs": 1,
+        "handlers": 7
+      },
+      "candidateControls": [
+        "#py-continue",
+        "#py-reset",
+        "#py-first",
+        "#py-prev",
+        "#py-play",
+        "#py-next",
+        "#py-last"
+      ]
+    },
+    {
+      "id": "foundational-python-variables",
+      "path": "foundational/python/variables.html",
+      "title": "Python Variables: Name and Store Values",
+      "adapter": "pycourse",
+      "anchor": "#dashboard",
+      "score": 63,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 8,
+        "inputs": 1,
+        "handlers": 7
+      },
+      "candidateControls": [
+        "#py-continue",
+        "#py-reset",
+        "#py-first",
+        "#py-prev",
+        "#py-play",
+        "#py-next",
+        "#py-last"
+      ]
+    },
+    {
+      "id": "full-stack-demo",
+      "path": "full-stack/demo.html",
+      "title": "Full Stack Request Lifecycle Simulator: Client to DB",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "full-stack-dotnet-csharp-demo",
+      "path": "full-stack/dotnet-csharp/demo.html",
+      "title": ".NET 8 Web API Clean Architecture & CQRS Simulator",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "full-stack-dotnet-csharp-index",
+      "path": "full-stack/dotnet-csharp/index.html",
+      "title": "C# and .NET 8 Full Stack Enterprise Architecture",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "full-stack-index",
+      "path": "full-stack/index.html",
+      "title": "Full Stack Enterprise Systems Architecture",
+      "adapter": "react",
+      "anchor": "#root",
+      "score": 14,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "full-stack-java-fullstack-demo",
+      "path": "full-stack/java-fullstack/demo.html",
+      "title": "Java Spring Boot 3 Virtual Threads & JPA Simulator",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "full-stack-java-fullstack-index",
+      "path": "full-stack/java-fullstack/index.html",
+      "title": "Java Full Stack: Spring Boot 3 & Microservices",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "full-stack-nodejs-react-nextjs-demo",
+      "path": "full-stack/nodejs-react-nextjs/demo.html",
+      "title": "Next.js Server Components & Streaming SSR Simulator",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 46,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "full-stack-nodejs-react-nextjs-index",
+      "path": "full-stack/nodejs-react-nextjs/index.html",
+      "title": "Node.js, React 19 & Next.js App Router Architecture",
+      "adapter": "react",
+      "anchor": "#root",
+      "score": 14,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "full-stack-python-fastapi-demo",
+      "path": "full-stack/python-fastapi/demo.html",
+      "title": "FastAPI Async Request & Pydantic Validation Lab",
+      "adapter": "simulator",
+      "anchor": "#btn-run",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-run",
+        "#btn-step",
+        "#btn-reset"
+      ]
+    },
+    {
+      "id": "full-stack-python-fastapi-index",
+      "path": "full-stack/python-fastapi/index.html",
+      "title": "Python FastAPI: Modern Async High-Performance APIs",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "index",
+      "path": "index.html",
+      "title": "Demystifying AI, Lakehouses Data Governance Through Interactive Living Systems",
+      "adapter": "react",
+      "anchor": "#root",
+      "score": 156,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 29,
+        "inputs": 0,
+        "handlers": 28
+      },
+      "candidateControls": [
+        "#showcasePause",
+        "#showcasePrev",
+        "#showcaseNext",
+        "#rtab-ai",
+        "#rtab-de",
+        "#rtab-gov",
+        "#ttab-3m",
+        "#ttab-2m",
+        "#ttab-1m"
+      ]
+    },
+    {
+      "id": "pdfs-evolution-of-ai",
+      "path": "pdfs/evolution-of-ai.html",
+      "title": "THE EVOLUTIONOF AI",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 5,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-after-interview",
+      "path": "placement-assistance/after-interview.html",
+      "title": "What you do after the interview matters too",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 5,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-aptitude-coding",
+      "path": "placement-assistance/aptitude-coding.html",
+      "title": "Clear the online test, every single time",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 5,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-before-interview",
+      "path": "placement-assistance/before-interview.html",
+      "title": "Win the interview before it even starts",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 12,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 0,
+        "inputs": 6,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-communication-skills",
+      "path": "placement-assistance/communication-skills.html",
+      "title": "Good English is a skill, and skills can be learned",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 5,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-confidence-mindset",
+      "path": "placement-assistance/confidence-mindset.html",
+      "title": "Your college doesn t decide your future. Your effort does.",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 5,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-cover-letters",
+      "path": "placement-assistance/cover-letters.html",
+      "title": "Cover letters that sound like you, not like a template",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 5,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-during-interview",
+      "path": "placement-assistance/during-interview.html",
+      "title": "Stay calm, think aloud and shine",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 5,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-group-discussion",
+      "path": "placement-assistance/group-discussion.html",
+      "title": "Speak up in a group discussion without fear",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 5,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-handling-competition",
+      "path": "placement-assistance/handling-competition.html",
+      "title": "Lakhs of freshers. Here s how you stand out.",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 5,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-hr-round-salary",
+      "path": "placement-assistance/hr-round-salary.html",
+      "title": "Handle the HR round and talk money with confidence",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 5,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-index",
+      "path": "placement-assistance/index.html",
+      "title": "Tier-2 or tier-3 college? Your skills decide your package, not your college name.",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 40,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 20,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-interview-prep",
+      "path": "placement-assistance/interview-prep.html",
+      "title": "Your complete interview game plan",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 12,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 0,
+        "inputs": 6,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-job-applications",
+      "path": "placement-assistance/job-applications.html",
+      "title": "Apply smart, not just more",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 12,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 0,
+        "inputs": 6,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-linkedin-naukri",
+      "path": "placement-assistance/linkedin-naukri.html",
+      "title": "Make recruiters find you on LinkedIn and Naukri",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 12,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 0,
+        "inputs": 6,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-off-campus-jobs",
+      "path": "placement-assistance/off-campus-jobs.html",
+      "title": "No campus placement? Off-campus is your highway.",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 12,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 0,
+        "inputs": 6,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "placement-assistance-resume-prep",
+      "path": "placement-assistance/resume-prep.html",
+      "title": "A resume that gets you shortlisted, even from a tier-2 college",
+      "adapter": "react",
+      "anchor": "#root",
+      "score": 21,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 0,
+        "inputs": 6,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "pyspark-cloud-storage",
+      "path": "pyspark/cloud-storage.html",
+      "title": "Reading Writing Files from Cloud Object Storage",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 20,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-s3",
+        "#btn-adls",
+        "#btn-gcs",
+        "#btn-minio"
+      ]
+    },
+    {
+      "id": "pyspark-cluster-architecture",
+      "path": "pyspark/cluster-architecture.html",
+      "title": "What is a PySpark Cluster Why Do You Need One?",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 99,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 2,
+        "inputs": 9,
+        "handlers": 24
+      },
+      "candidateControls": [
+        "#btn-start-race",
+        "#slider-db-tables",
+        "#slider-db-size",
+        "#slider-db-parts",
+        "#slider-file-folders",
+        "#slider-file-count",
+        "#slider-file-size",
+        "#sliderNodes",
+        "#sliderCores",
+        "#sliderRam"
+      ]
+    },
+    {
+      "id": "pyspark-dag-execution",
+      "path": "pyspark/dag-execution.html",
+      "title": "DataFrame Operations: Jobs, Stages, DAG Tasks",
+      "adapter": "simulator",
+      "anchor": "#sec-dag-simulator",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 0,
+        "handlers": 4
+      },
+      "candidateControls": [
+        "#btn-dag-step",
+        "#btn-dag-play"
+      ]
+    },
+    {
+      "id": "pyspark-data-distribution",
+      "path": "pyspark/data-distribution.html",
+      "title": "Data Distribution File Splits Explorer",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 2,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 1,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#ddSpeed"
+      ]
+    },
+    {
+      "id": "pyspark-demo",
+      "path": "pyspark/demo.html",
+      "title": "Lakehouse Demo Lab: Data Lake vs Delta Lake vs Iceberg",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 2,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 1,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#lhSpeed"
+      ]
+    },
+    {
+      "id": "pyspark-index",
+      "path": "pyspark/index.html",
+      "title": "PySpark Interactive Architecture Explainer",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "pyspark-mpp-warehouses",
+      "path": "pyspark/mpp-warehouses.html",
+      "title": "MPP Data Warehouses: Snowflake Amazon Redshift",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 45,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 4,
+        "handlers": 8
+      },
+      "candidateControls": [
+        "#btn-mpp-sf",
+        "#btn-mpp-rs",
+        "#sim-row-count",
+        "#sim-executors",
+        "#sim-pushdown-filter",
+        "#sim-pushdown-agg"
+      ]
+    },
+    {
+      "id": "pyspark-rdbms-jdbc",
+      "path": "pyspark/rdbms-jdbc.html",
+      "title": "Reading Writing RDBMS via Parallel Partitioned JDBC",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 35,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 4,
+        "inputs": 3,
+        "handlers": 7
+      },
+      "candidateControls": [
+        "#sliderPartitions",
+        "#sliderLower",
+        "#sliderUpper",
+        "#dbtab-oracle",
+        "#dbtab-postgres",
+        "#dbtab-mysql",
+        "#dbtab-sqlserver"
+      ]
+    },
+    {
+      "id": "pyspark-shuffle-ops-lab",
+      "path": "pyspark/shuffle-ops-lab.html",
+      "title": "Shuffle Operations Lab",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 25,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 2,
+        "inputs": 8,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#sxSource",
+        "#sxOp",
+        "#sxTarget",
+        "#sxVol",
+        "#sxParts",
+        "#sxBcast",
+        "#sxAqe",
+        "#sxSalt"
+      ]
+    },
+    {
+      "id": "pyspark-shuffle-partitioning",
+      "path": "pyspark/shuffle-partitioning.html",
+      "title": "Apache Spark Shuffle, Partitioning File Sizing Mechanics",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 467,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 68,
+        "inputs": 20,
+        "handlers": 97
+      },
+      "candidateControls": [
+        "#btnWorkersFile2",
+        "#btnWorkersFile4",
+        "#btnWorkersFile8",
+        "#btnWorkersFile16",
+        "#btnPresetSmall",
+        "#btnPresetGiant",
+        "#btnPresetGold",
+        "#sliderFileCount",
+        "#sliderFileSize",
+        "#selectFormat",
+        "#selectHierarchy",
+        "#btnWorkersDb2",
+        "#btnWorkersDb4",
+        "#btnWorkersDb8",
+        "#btnWorkersDb16",
+        "#sliderDbSize",
+        "#sliderDbRows",
+        "#selectDbEngine",
+        "#selectDbStructure",
+        "#stratSingle",
+        "#stratParallel",
+        "#stratPredicates",
+        "#btnWorkersMpp2",
+        "#btnWorkersMpp4",
+        "#btnWorkersMpp8",
+        "#btnWorkersMpp16",
+        "#selectMppPlatform",
+        "#selectMppSize",
+        "#sliderMppVolume",
+        "#selectMppPushdown",
+        "#btnWorkersStream2",
+        "#btnWorkersStream4",
+        "#btnWorkersStream8",
+        "#btnWorkersStream16",
+        "#selectStreamEngine",
+        "#sliderStreamPartitions",
+        "#sliderStreamRate",
+        "#selectStreamPayload",
+        "#btnSched_parquet",
+        "#btnSched_hdfs",
+        "#btnSched_jdbc",
+        "#btnSched_kafka",
+        "#btnSim50ToggleNode3",
+        "#btnSim50Play",
+        "#btnSim50Speed1",
+        "#btnSim50Speed2",
+        "#btnSimTab_ingest",
+        "#btnSimTab_waves",
+        "#btnSimTab_shuffle",
+        "#btnSimTab_scale",
+        "#btnSimTab_skew",
+        "#btnRunShuffleAnim",
+        "#btnShufPhase1",
+        "#btnShufPhase2",
+        "#btnShufPhase3",
+        "#btnOp_filter",
+        "#btnOp_count",
+        "#btnOp_groupby",
+        "#btnOp_repartition",
+        "#btnOp_join"
+      ]
+    },
+    {
+      "id": "pyspark-shuffle-tuning-qna",
+      "path": "pyspark/shuffle-tuning-qna.html",
+      "title": "Shuffle Performance Tuning Q A",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 6,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 2,
+        "inputs": 1,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#qaSearch",
+        "#qaInterview",
+        "#qaExpand"
+      ]
+    },
+    {
+      "id": "pyspark-streaming-cdc",
+      "path": "pyspark/streaming-cdc.html",
+      "title": "Apache Kafka, AWS Kinesis Debezium CDC Streaming",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 80,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 8,
+        "inputs": 7,
+        "handlers": 15
+      },
+      "candidateControls": [
+        "#btnWorkersStream2",
+        "#btnWorkersStream4",
+        "#btnWorkersStream8",
+        "#btnWorkersStream16",
+        "#selectStreamEngine",
+        "#sliderStreamPartitions",
+        "#sliderStreamRate",
+        "#selectStreamPayload",
+        "#btnPresetSitA",
+        "#btnPresetSitB",
+        "#btnPresetSitC",
+        "#sliderPartitions",
+        "#sliderCores",
+        "#sliderRate",
+        "#btnToggleAnim"
+      ]
+    },
+    {
+      "id": "sales-pitch-index",
+      "path": "sales-pitch/index.html",
+      "title": "One Warehouse. Every Legacy System.",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 19,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 7,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#showcasePause",
+        "#showcasePrev",
+        "#showcaseNext",
+        "#solarPause",
+        "#solarPrev",
+        "#solarNext"
+      ]
+    },
+    {
+      "id": "snowflake-dataengineering-demo",
+      "path": "snowflake-dataengineering/demo.html",
+      "title": "Snowflake Hands-on SQL Lab",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 22,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 1,
+        "inputs": 10,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#lab-reset"
+      ]
+    },
+    {
+      "id": "snowflake-dataengineering-features",
+      "path": "snowflake-dataengineering/features.html",
+      "title": "Time Travel, Dynamic Tables Stages",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 20,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 8,
+        "inputs": 2,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#tt-ret",
+        "#tt-ago"
+      ]
+    },
+    {
+      "id": "snowflake-dataengineering-index",
+      "path": "snowflake-dataengineering/index.html",
+      "title": "Learn Snowflake the way it actually works",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 0,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 0,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "snowflake-dataengineering-internals",
+      "path": "snowflake-dataengineering/internals.html",
+      "title": "Snowflake Internals",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 15,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 3,
+        "inputs": 2,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#pr-start",
+        "#pr-days"
+      ]
+    },
+    {
+      "id": "snowflake-dataengineering-interview-qna",
+      "path": "snowflake-dataengineering/interview-qna.html",
+      "title": "Snowflake Engineer Interview Q A",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 10,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 3,
+        "inputs": 2,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#qb-search",
+        "#qb-level",
+        "#qb-interview",
+        "#qb-random",
+        "#qb-expand"
+      ]
+    },
+    {
+      "id": "snowflake-dataengineering-tables",
+      "path": "snowflake-dataengineering/tables.html",
+      "title": "Tables, Tuning Loading",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 9,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 2,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": []
+    },
+    {
+      "id": "snowflake-dataengineering-warehouses",
+      "path": "snowflake-dataengineering/warehouses.html",
+      "title": "Warehouses Compute",
+      "adapter": "diagram",
+      "anchor": "main",
+      "score": 37,
+      "matched": true,
+      "status": "discovered",
+      "elements": {
+        "buttons": 7,
+        "inputs": 9,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#mc-queries",
+        "#mc-min",
+        "#mc-max",
+        "#mc-size",
+        "#cost-size",
+        "#cost-bursts",
+        "#cost-dur",
+        "#cost-window",
+        "#cost-price"
+      ]
+    },
+    {
+      "id": "why-tinitiate",
+      "path": "why-tinitiate.html",
+      "title": "Become the AI Engineercompanies are hiring.",
+      "adapter": "generic",
+      "anchor": "main",
+      "score": 6,
+      "matched": false,
+      "status": "not-interactive",
+      "elements": {
+        "buttons": 3,
+        "inputs": 0,
+        "handlers": 0
+      },
+      "candidateControls": [
+        "#whyPrev",
+        "#whyPlay",
+        "#whyNext"
+      ]
+    }
+  ]
+}

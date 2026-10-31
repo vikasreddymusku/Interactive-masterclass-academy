@@ -1,0 +1,1 @@
+This package is an overlay: copy dashboard-tutor/ into the root of the existing academy repo, then run scan/install. The test fixture included in the archive is only for validating this overlay in isolation.
